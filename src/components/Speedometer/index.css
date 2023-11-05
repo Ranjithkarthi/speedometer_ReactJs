@@ -1,0 +1,46 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #07080c;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Roboto;
+}
+
+.heading {
+  font-style: italic;
+}
+
+.desc {
+  color: #cbd5e1;
+}
+
+.btn-container {
+  display: flex;
+}
+
+.btn-1 {
+  background-color: #0b69ff;
+  padding: 12px;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  margin-right: 8px;
+  width: 100px;
+}
+
+.btn-2 {
+  background-color: transparent;
+  color: #94a3b8;
+  border: 1px solid #94a3b8;
+  border-radius: 8px;
+  width: 100px;
+}
+
+.speedometer-img {
+  max-width: 600px;
+}
